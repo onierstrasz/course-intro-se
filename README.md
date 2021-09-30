@@ -1,6 +1,6 @@
 # Introduction to Software Engineering
 
-![Postscript](Figures/spiral.jpg)
+![Postscript](Figures/spiral.png)
 
 This repo contains the lecture material for the Bachelor level course “Introduction to Software Engineering”.
 Several of the lectures are given by guest speakers. This repo only contains the material for the non-guest lectures.
