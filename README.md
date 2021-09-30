@@ -5,6 +5,8 @@
 This repo contains the lecture material for the Bachelor level course “Introduction to Software Engineering”.
 Several of the lectures are given by guest speakers. This repo only contains the material for the non-guest lectures.
 
+The course was last held in the Fall of 2021.
+
 ## Description
 
 This course is intended for Bachelors students in the third semester studying a major or minor in Computer Science. The goal of this course is to provide an introduction to the key concepts of Software Engineering.
